@@ -1,0 +1,11 @@
+a {
+  display: inline-block;
+  background-color: $viking;
+  height: 60px;
+  width: 70px;
+}
+
+a:hover,
+a:active {
+  background-color: red;
+}
