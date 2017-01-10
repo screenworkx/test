@@ -1,0 +1,23 @@
+article p,
+.bodycopy,
+.mod-post .content p {
+  line-height: 1.6;
+  font-size: 15px;
+  color: #555555;
+}
+
+article ul li,
+.list li,
+.mod-post .content ul li {
+  color: #555555;
+  font-size: 15px;
+  line-height: 1.6;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.list, 
+article ul,
+.mod-post .content ul {
+  margin: 20px 0 30px;
+}
